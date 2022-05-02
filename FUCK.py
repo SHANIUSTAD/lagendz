@@ -137,8 +137,6 @@ def main_apv():
     os.system('clear')
 
     print(logo)
-
-    try:
        
 logo="""\033[1;37m
 
