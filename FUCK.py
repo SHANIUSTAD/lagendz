@@ -186,18 +186,7 @@ def hasil(OK,cp):
 
 	    input("\x1b[1;97mPress enter to back Rydah Menu ")
 
-	    R()
-
-		
-
-def R():
-
-			os.system("clear")
-
-			print(logo)
-
-			print("               \033[1;92m• Premium • \033[1;97m")
-
+	    R()		
 			print (' [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]')
 
 			print ("\033[1m [!] Tool    : Rydah Fast Clone")
